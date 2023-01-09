@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @caiteesmith
+- 👋 Hi, I’m Caitee
 - 💻 I've been a Front-End Web Developer for 10 years.
 - 👀 I’m interested in becoming a Full-Stack Web Developer and/or SWE
 - 🌱 I’m currently learning Java, Statistics, Information Systems, and Database Management.
