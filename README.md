@@ -3,7 +3,7 @@
 - 👀 I’m working towards becoming Full-Stack and/or an SWE.
 - 🌱 I’m currently learning Java, Statistics, Information Systems, and Database Management.
 - 💞️ I’m looking to collaborate on anything challenging but beginner-friendly, Java-related, or a new language.
-- 🏂 I love to hike, snowboard, rock climb, drive my WRX STI, and travel.
+- 🏂 I love to learn, hike, snowboard, rock climb, drive my WRX STI, and travel.
 
 <!---
 caiteesmith/caiteesmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
