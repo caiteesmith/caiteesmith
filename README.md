@@ -5,8 +5,7 @@
 - 💞️ I’m looking to collaborate on anything challenging but beginner-friendly, Java-related, or a new language.
 - 🏂 I love to learn, hike, snowboard, rock climb, drive my WRX STI, and travel. -->
 
-![README md (2)](https://user-images.githubusercontent.com/7319667/214429811-c03554c7-dfb6-4cfd-81d7-f279003e577e.png)
-
+![README md](https://user-images.githubusercontent.com/7319667/214429891-edc3eb3a-f4ae-4bb1-8ec3-5c1081edb156.png)
 
 <!---
 caiteesmith/caiteesmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
