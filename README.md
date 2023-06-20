@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on anything challenging but beginner-friendly, Java-related, or a new language.
 - 🏂 I love to learn, hike, snowboard, rock climb, drive my WRX STI, and travel. -->
 # 💫 About Me:
-![README md](https://github.com/caiteesmith/caiteesmith/assets/7319667/e1ad765e-3309-4a13-814f-9aadddbfb48f)
+![README md](https://github.com/caiteesmith/caiteesmith/assets/7319667/a4aeb4a7-5f9f-487d-95dd-51ae6947efff)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/caiteesmith) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/caiteecodes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/caiteesmith/) 
