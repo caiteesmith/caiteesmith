@@ -1,9 +1,9 @@
 <!-- - 👋 Hiya, I’m Caitee.
-- 💻 I've been a Front-End Web Developer for 10 years.
+- 💻 I've been a Front-End Developer for 10 years.
 - 👀 I’m working towards becoming Full-Stack Engineer.
-- 🌱 I’m currently learning React, Advanced Java, C#, and Information Systems.
-- 💞️ I’m looking to collaborate on anything challenging but beginner-friendly, Java-related, or a new language.
-- 🏂 I love to learn, hike, snowboard, rock climb, drive my WRX STI, and travel. -->
+- 🌱 I’m currently learning iOS development with Swift and Android development with Java/Gradle.
+- 💞️ I’m looking to collaborate on app development, anything Java-related, or a new language.
+- 🏂 I love to learn, hike, snowboard, take photos, invest in stocks, and travel. -->
 # 💫 About Me:
 ![README md](https://github.com/caiteesmith/caiteesmith/assets/7319667/a4aeb4a7-5f9f-487d-95dd-51ae6947efff)
 
