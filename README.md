@@ -9,9 +9,7 @@
 # 💫 About Me
 <!--![README md](https://github.com/caiteesmith/caiteesmith/assets/7319667/a4aeb4a7-5f9f-487d-95dd-51ae6947efff)-->
 <!--<img width="991" alt="code-snippet" src="https://github.com/caiteesmith/caiteesmith/assets/7319667/40386b89-e5b2-4e2f-9a41-fa282512d35c">-->
-
-<img width="2024" height="647" alt="codetoimg-snippet (1)" src="https://github.com/user-attachments/assets/ead11332-2df7-4625-8839-e0f9c035b6ac" />
-
+<img width="2084" height="647" alt="codetoimg-snippet (2)" src="https://github.com/user-attachments/assets/468786e8-be6e-46b3-92e4-0db273a77111" />
 
 
 <!-- # 💫 About Me:
