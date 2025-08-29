@@ -8,7 +8,9 @@
 - 🏂 I love to learn, hike, snowboard, take photos, invest in stocks, and travel. -->
 # 💫 About Me
 <!--![README md](https://github.com/caiteesmith/caiteesmith/assets/7319667/a4aeb4a7-5f9f-487d-95dd-51ae6947efff)-->
-<img width="991" alt="code-snippet" src="https://github.com/caiteesmith/caiteesmith/assets/7319667/40386b89-e5b2-4e2f-9a41-fa282512d35c">
+<!--<img width="991" alt="code-snippet" src="https://github.com/caiteesmith/caiteesmith/assets/7319667/40386b89-e5b2-4e2f-9a41-fa282512d35c">-->
+<img width="2024" height="647" alt="codetoimg-snippet" src="https://github.com/user-attachments/assets/a560b3f7-408f-44b3-bff5-7e538def6038" />
+
 
 
 <!-- # 💫 About Me:
