@@ -9,10 +9,17 @@
 # 💫 About Me
 <!--![README md](https://github.com/caiteesmith/caiteesmith/assets/7319667/a4aeb4a7-5f9f-487d-95dd-51ae6947efff)-->
 <!--<img width="991" alt="code-snippet" src="https://github.com/caiteesmith/caiteesmith/assets/7319667/40386b89-e5b2-4e2f-9a41-fa282512d35c">-->
-<img width="2084" height="647" alt="codetoimg-snippet (2)" src="https://github.com/user-attachments/assets/468786e8-be6e-46b3-92e4-0db273a77111" />
+<img width="1788" height="772" alt="readme" src="https://github.com/user-attachments/assets/7ab7f27f-f2e8-4251-92cf-e22383cc8e12" />
 
 <!-- # 💫 About Me:
 👋 Hi, I’m Caitee!<br>💻 Back-End Developer working on C# microservices in .NET and Azure.<br>🎓 Recently completed my Bachelor of Science in Computer Science at WGU.<br>🤝 Open to collaborating on microservices, DevOps workflows, or exploring new languages.<br>🏂 Outside of coding, I love learning, hiking, snowboarding, photography, and traveling. -->
+
+<!-- 👋 Hi, I’m Caitee!
+💻 I'm a Software Engineer working on C# microservices in .NET and Azure
+🎨 Design-minded engineer who cares about frontend and UX
+🌀 I love Agile teams, good DevOps, and clear communication
+🐍 I also build Python & Streamlit tools and internal dashboards
+📚 B.S. in Computer Science -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/caiteesmith/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@caiteecodes) 
